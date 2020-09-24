@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://thumbs.gfycat.com/UnacceptableHelpfulBlueandgoldmackaw-mobile.mp4" width=250><br>
+<img src="https://i.imgur.com/DM1jUVc.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
